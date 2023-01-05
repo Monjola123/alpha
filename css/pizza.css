@@ -1,0 +1,28 @@
+.p2{
+	margin-left: 500px;
+}
+.p3{
+	margin-left: 60px;
+}
+
+.carousel-inner{
+	max-height: 500px;
+}
+body{
+	border: 1px solid transparent;
+}
+h2{
+	margin-left:45% ;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+h3{
+	margin-left:45% ;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.text-center{
+	background-color: tomato;
+	height: 50px;
+	padding-top: 10px;
+}

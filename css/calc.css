@@ -1,0 +1,19 @@
+body{
+	background-color: ghostwhite;
+	font-size: 30px;margin: 30px;
+}
+.col-md-3{
+	border: 0.1px solid black;text-align: center;background-color:#d5d6ab ;
+}
+.col-md-6{
+	border: 0.1px solid black;text-align: center;background-color:#d5d6ab ;
+}
+.col-md-12{
+	border: 0.1px solid black;text-align: right;background-color: #635f5e;
+}
+.dope{
+	background-color: orange;color: snow;
+}
+.red{
+	color: snow;
+	border: 0.1px solid transparent;
