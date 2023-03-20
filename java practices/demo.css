@@ -1,0 +1,30 @@
+#guess-game{
+	background-color: blue;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	height: 60vh;
+    width: 45%;
+    border: 10px double white;
+    border-radius: 30px;
+    color: white;
+
+
+}
+body {
+	display: flex;
+	height: 100vh;
+	width: 100%;
+	background-color: black;
+
+     justify-content: center;
+	align-items: center;
+    
+}
+#play{
+height: 30px;width: 120px;border-radius: 10px;border: 1px solid white;font-family: copper;font-size: 20px;margin-top: 5px;margin-left: 30px;
+}
+#restart{
+height: 30px;width: 120px;border-radius: 10px;border: 1px solid white;font-family: copper;font-size: 20px;margin-top: 5px;margin-left: 30px;
+}

@@ -1,0 +1,25 @@
+body{margin: 3px;}
+.togdig{height: 30px;border-bottom: 1px double red;background-color: lightgrey;}
+.reachus{margin-left: 150px;  }
+.top{height: 150px;background-color: lightblue; }
+.logo{  margin-left: 100px; }
+.list{ font-size: 28px;margin-left: 550px;font-weight: bold;font-family: Agency fb;color:#dc720c;}
+.sabi{ font-size: 20px;color: white; background-color:#dc720c; }
+.yup{height: 720px;}
+.label{font-size: 40px; color: blue;font-family:impact;text-align:left; }
+.labbut{font-size: 35px; color:black;font-family: sitka;border-radius:12px;background-color: lightblue;}
+.pbut{text-align:left; }
+.cap{font-size: 25px;color: blue;font-family: consolas;text-align:left;}
+.enquiry{ height: 70px;border: 1px solid skyblue;background-color:skyblue; }
+.enqtext{ margin-left: 30%; }
+.hori{ height: 100px; }
+.ding { text-align: center;font-family: Baskerville old face;margin-top: 30px;margin-bottom: 30px; font-size: 47px;font-weight: bold;color: dodgerblue;; }
+.star{ color: darkgray; }
+.part{ height: 200px;border: 1px solid orange;border-left: transparent;border-top: transparent;border-bottom: transparent; }
+.pat{ font-size: 20px;margin-top: 20px;margin-left: 5px;font-family: sans-serif; }
+.dap{ color: skyblue; }
+.dorime{ border-right: transparent;}
+.partners{margin-left: 30%; height: 400px;width: 1000px;border: 1px solid black;border-radius: 30px;background-image: url(https://th.bing.com/th/id/OIP.jLPJ2GMOiVDRNEyra6nCfAHaEK?pid=ImgDet&rs=1);
+background-repeat: no-repeat;background-size: cover;background-position: center;background-color: black;  }
+.ourp{ font-size:40px;font-family: rockwell;color:blue ;margin-top: 10px;margin-left: 10px;  }
+.marq{ margin-top: 70px; }
