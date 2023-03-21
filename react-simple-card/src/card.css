@@ -1,0 +1,7 @@
+.App-logo{ height: 300px;
+margin-top:30px;margin-left: 30px;
+}
+.Title{ color: firebrick;font-size: 30px; font-family: cooper;margin-top:50px;margin-left: 30px;}
+.ABT{margin-top:30px;margin-left: 30px;font-size:30px;font-family: algerian;color: blue; }
+.App{ background-color: black;margin-left: 10px;height: 1500px;color: whitesmoke;}
+.coach{ font-size: larger; color: chartreuse;}

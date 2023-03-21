@@ -18,10 +18,10 @@ function guessTheNumber (event){
         event.preventDefault()
         console.log(event)
         console.log(input);
-        count.innerText = "The button was clicked ${input} times!";
+       
 play.addEventListener('click', () => {
     input++; 
-    count.innerText = "The button was clicked ${input} times!" ;
+    
 })
 
     
@@ -30,6 +30,8 @@ play.addEventListener('click', () => {
          display2.innerText = "Try Again"
           box.style.backgroundImage = "url(https://th.bing.com/th/id/R.8aca24e0deeaac0f1a3160725f962e4a?rik=Eua%2fpH8A7ex8Eg&riu=http%3a%2f%2fi.imgur.com%2fJw6HHnP.gif&ehk=QMe0hzWCyq3%2fOvYSO6L7u%2bCM149MiSXw%2ftR9ndrvKNs%3d&risl=&pid=ImgRaw&r=0)"
           box.style.backgroundRepeat = "no-repeat"
+          box.style.backgroundPosition = "center"
+          box.style.backgroundSize = "cover"
 
     }
     else if (input > random && input > 50){
@@ -47,7 +49,7 @@ play.addEventListener('click', () => {
         box.style.backgroundColor = "black"
     }
      else if (input + 10 < random ){
-        display.innerText = "Naaah! Your guess is still pretty much lower";
+        display.innerText = "Naaah! You'd have to do a lot better";
         box.style.backgroundColor = "green"
     }
 

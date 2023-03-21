@@ -1,0 +1,21 @@
+   <div className="Simplecard">
+     <div className="row">
+      <div className="col-md-12 yoo">
+     <div className="col-md-2">
+     <div className="image">
+     the
+    </div>
+    </div>
+    <div className="col-md-8 ulo">
+   <div className="Title">
+DOGS
+   </div>
+   <div className="description">
+
+</div>
+</div>
+    </div>
+     </div>
+    </div>
+  );
+}
