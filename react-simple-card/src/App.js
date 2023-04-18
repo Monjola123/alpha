@@ -9,7 +9,7 @@ function App() {
          <p className="Title">
         ARSENAL
         </p>
-        <p className="ABT"> 
+        <p className="ABT">
           ABOUT
         </p>
         <p className="para">
